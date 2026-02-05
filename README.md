@@ -22,15 +22,12 @@ The "unified" approach involves sophisticated "defense-in-depth" filtration mode
 
 VirusTC's clinical advancements in bloodwork support the stewardship of **Piru Creek, California**, and its surrounding federal lands. This project acknowledges the critical importance of these protected areas:
 
-+3
 
 -   **Protected Land Stewardship**: Piru Creek is a designated **Wild and Scenic River**, with 7.25 miles of its corridor protected under federal law to preserve its unique geological and biological values.
 
-    +2
 
 -   **Tribal Community Engagement**: This project respects and incorporates the interests of tribal communities, including the **Fernandeño-Tataviam Band of Mission Indians** and other tribes protected under federal agreements and the **Central Coast Heritage Protection Act**.
 
-    +2
 
 -   **Unified Access**: Through partnerships with **UW Medicine** and **Fred Hutch**, these life-saving technologies are part of a broader commitment to providing equitable, high-standard medical care while ensuring the ecological and cultural integrity of California's protected regions.
 
